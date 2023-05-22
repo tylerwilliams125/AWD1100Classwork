@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ValidationLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:Murach.Validation.Validator">
+            <summary>
+            Provides static methods for validating data.
+            </summary>
+        </member>
+        <member name="P:Murach.Validation.Validator.LineEnd">
+            <summary>
+            The character sequence to terminate each line in the validation message.
+            </summary>
+        </member>
+        <member name="M:Murach.Validation.Validator.IsPresent(System.String,System.String)">
+            <summary>
+            Checks whether the user entered a value.
+            </summary>
+            <param name="value">The value to be validated.</param>
+            <param name="name">A name that identifies the value to be validated.</param>
+            <returns>An error message if the user didn't enter a value.</returns>
+        </member>
+        <member name="M:Murach.Validation.Validator.IsDecimal(System.String,System.String)">
+            <summary>
+            Checks whether the user entered a decimal value.
+            </summary>
+            <param name="value">The value to be validated.</param>
+            <param name="name">A name that identifies the value to be validated.</param>
+            <returns>An error message if the value isn't a valid decimal.</returns>
+        </member>
+        <member name="M:Murach.Validation.Validator.IsInt32(System.String,System.String)">
+            <summary>
+            Checks whether the user entered an integer value.
+            </summary>
+            <param name="value">The value to be validated.</param>
+            <param name="name">A name that identifies the value to be validated.</param>
+            <returns>An error message if the value isn't a valid integer.</returns>
+        </member>
+        <member name="M:Murach.Validation.Validator.IsWithinRange(System.String,System.String,System.Decimal,System.Decimal)">
+            <summary>
+            Checks whether a value is within a specified range.
+            </summary>
+            <param name="value">The value to be validated.</param>
+            <param name="name">A name that identifies the value to be validated.</param>
+            <param name="min">The minimum value.</param>
+            <param name="max">The maximum value.</param>
+            <returns>An error message if the value isn't within the specified range.</returns>
+        </member>
+    </members>
+</doc>

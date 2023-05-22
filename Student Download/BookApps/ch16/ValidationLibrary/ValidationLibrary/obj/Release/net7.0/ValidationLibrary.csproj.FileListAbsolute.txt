@@ -1,0 +1,14 @@
+C:\Users\maryd\Dropbox\C# (8th Ed)\C#\book_apps\ch16\ValidationLibrary\ValidationLibrary\bin\Release\net7.0\ValidationLibrary.deps.json
+C:\Users\maryd\Dropbox\C# (8th Ed)\C#\book_apps\ch16\ValidationLibrary\ValidationLibrary\bin\Release\net7.0\ValidationLibrary.dll
+C:\Users\maryd\Dropbox\C# (8th Ed)\C#\book_apps\ch16\ValidationLibrary\ValidationLibrary\bin\Release\net7.0\ValidationLibrary.pdb
+C:\Users\maryd\Dropbox\C# (8th Ed)\C#\book_apps\ch16\ValidationLibrary\ValidationLibrary\obj\Release\net7.0\ValidationLibrary.csproj.AssemblyReference.cache
+C:\Users\maryd\Dropbox\C# (8th Ed)\C#\book_apps\ch16\ValidationLibrary\ValidationLibrary\obj\Release\net7.0\ValidationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maryd\Dropbox\C# (8th Ed)\C#\book_apps\ch16\ValidationLibrary\ValidationLibrary\obj\Release\net7.0\ValidationLibrary.AssemblyInfoInputs.cache
+C:\Users\maryd\Dropbox\C# (8th Ed)\C#\book_apps\ch16\ValidationLibrary\ValidationLibrary\obj\Release\net7.0\ValidationLibrary.AssemblyInfo.cs
+C:\Users\maryd\Dropbox\C# (8th Ed)\C#\book_apps\ch16\ValidationLibrary\ValidationLibrary\obj\Release\net7.0\ValidationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\maryd\Dropbox\C# (8th Ed)\C#\book_apps\ch16\ValidationLibrary\ValidationLibrary\obj\Release\net7.0\ValidationLibrary.dll
+C:\Users\maryd\Dropbox\C# (8th Ed)\C#\book_apps\ch16\ValidationLibrary\ValidationLibrary\obj\Release\net7.0\refint\ValidationLibrary.dll
+C:\Users\maryd\Dropbox\C# (8th Ed)\C#\book_apps\ch16\ValidationLibrary\ValidationLibrary\obj\Release\net7.0\ValidationLibrary.pdb
+C:\Users\maryd\Dropbox\C# (8th Ed)\C#\book_apps\ch16\ValidationLibrary\ValidationLibrary\obj\Release\net7.0\ref\ValidationLibrary.dll
+C:\Users\maryd\Dropbox\C# (8th Ed)\C#\book_apps\ch16\ValidationLibrary\ValidationLibrary\bin\Release\net7.0\ValidationLibrary.xml
+C:\Users\maryd\Dropbox\C# (8th Ed)\C#\book_apps\ch16\ValidationLibrary\ValidationLibrary\obj\Release\net7.0\ValidationLibrary.xml

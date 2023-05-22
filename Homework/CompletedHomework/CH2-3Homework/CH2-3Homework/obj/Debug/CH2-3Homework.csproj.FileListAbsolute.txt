@@ -1,0 +1,11 @@
+C:\Users\DANTE\Desktop\AWD1100-Summer2023-Students-master\Homework\CompletedHomework\CH2-3Homework\CH2-3Homework\bin\Debug\CH2-3Homework.exe.config
+C:\Users\DANTE\Desktop\AWD1100-Summer2023-Students-master\Homework\CompletedHomework\CH2-3Homework\CH2-3Homework\bin\Debug\CH2-3Homework.exe
+C:\Users\DANTE\Desktop\AWD1100-Summer2023-Students-master\Homework\CompletedHomework\CH2-3Homework\CH2-3Homework\bin\Debug\CH2-3Homework.pdb
+C:\Users\DANTE\Desktop\AWD1100-Summer2023-Students-master\Homework\CompletedHomework\CH2-3Homework\CH2-3Homework\obj\Debug\CH2-3Homework.csproj.AssemblyReference.cache
+C:\Users\DANTE\Desktop\AWD1100-Summer2023-Students-master\Homework\CompletedHomework\CH2-3Homework\CH2-3Homework\obj\Debug\CH2-3Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\DANTE\Desktop\AWD1100-Summer2023-Students-master\Homework\CompletedHomework\CH2-3Homework\CH2-3Homework\obj\Debug\CH2_3Homework.Form1.resources
+C:\Users\DANTE\Desktop\AWD1100-Summer2023-Students-master\Homework\CompletedHomework\CH2-3Homework\CH2-3Homework\obj\Debug\CH2_3Homework.Properties.Resources.resources
+C:\Users\DANTE\Desktop\AWD1100-Summer2023-Students-master\Homework\CompletedHomework\CH2-3Homework\CH2-3Homework\obj\Debug\CH2-3Homework.csproj.GenerateResource.cache
+C:\Users\DANTE\Desktop\AWD1100-Summer2023-Students-master\Homework\CompletedHomework\CH2-3Homework\CH2-3Homework\obj\Debug\CH2-3Homework.csproj.CoreCompileInputs.cache
+C:\Users\DANTE\Desktop\AWD1100-Summer2023-Students-master\Homework\CompletedHomework\CH2-3Homework\CH2-3Homework\obj\Debug\CH2-3Homework.exe
+C:\Users\DANTE\Desktop\AWD1100-Summer2023-Students-master\Homework\CompletedHomework\CH2-3Homework\CH2-3Homework\obj\Debug\CH2-3Homework.pdb
