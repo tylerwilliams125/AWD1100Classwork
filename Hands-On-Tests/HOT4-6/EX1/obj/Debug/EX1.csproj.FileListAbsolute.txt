@@ -1,0 +1,11 @@
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT4-6\EX1\bin\Debug\EX1.exe.config
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT4-6\EX1\bin\Debug\EX1.exe
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT4-6\EX1\bin\Debug\EX1.pdb
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT4-6\EX1\obj\Debug\EX1.csproj.AssemblyReference.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT4-6\EX1\obj\Debug\EX1.csproj.SuggestedBindingRedirects.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT4-6\EX1\obj\Debug\EX1.Properties.Resources.resources
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT4-6\EX1\obj\Debug\EX1.ShirtDiscountGUI.resources
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT4-6\EX1\obj\Debug\EX1.csproj.GenerateResource.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT4-6\EX1\obj\Debug\EX1.csproj.CoreCompileInputs.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT4-6\EX1\obj\Debug\EX1.exe
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT4-6\EX1\obj\Debug\EX1.pdb
