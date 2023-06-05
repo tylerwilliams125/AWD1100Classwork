@@ -1,0 +1,11 @@
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\FactorialNumber\bin\Debug\FactorialNumber.exe.config
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\FactorialNumber\bin\Debug\FactorialNumber.exe
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\FactorialNumber\bin\Debug\FactorialNumber.pdb
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\FactorialNumber\obj\Debug\Extra 5-1.csproj.AssemblyReference.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\FactorialNumber\obj\Debug\Extra 5-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\FactorialNumber\obj\Debug\FactorialNumber.frmFactorial.resources
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\FactorialNumber\obj\Debug\FactorialNumber.Properties.Resources.resources
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\FactorialNumber\obj\Debug\Extra 5-1.csproj.GenerateResource.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\FactorialNumber\obj\Debug\Extra 5-1.csproj.CoreCompileInputs.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\FactorialNumber\obj\Debug\FactorialNumber.exe
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\FactorialNumber\obj\Debug\FactorialNumber.pdb

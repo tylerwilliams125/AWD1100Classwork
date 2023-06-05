@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extra 4-2", "WindowsFormsAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extra 5-1", "FactorialNumber\Extra 5-1.csproj", "{2616900E-D832-47C3-844C-141773F4A29B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extra 5-3", "Extra 5-3\Extra 5-3.csproj", "{35B3EFE0-FE29-43A6-9324-035F2988F4B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2616900E-D832-47C3-844C-141773F4A29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2616900E-D832-47C3-844C-141773F4A29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2616900E-D832-47C3-844C-141773F4A29B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35B3EFE0-FE29-43A6-9324-035F2988F4B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B3EFE0-FE29-43A6-9324-035F2988F4B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B3EFE0-FE29-43A6-9324-035F2988F4B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B3EFE0-FE29-43A6-9324-035F2988F4B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

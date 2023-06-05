@@ -17,6 +17,9 @@ namespace FactorialNumber
             InitializeComponent();
         }
 
+        const int MINNUMBER = 1;
+        const int MAXNUMBER = 20;
+
 
         private void btnExit_Click(object sender, EventArgs e)
         {
@@ -30,15 +33,15 @@ namespace FactorialNumber
 
         private void btnCalculate_Click(object sender, EventArgs e)
         {
-            CalculateFactorial();
+           ValidateNumberTextBox();
 
         }
 
-        private void CalculateFactorial()
+        private void ValidateNumberTextBox()
         {
-            bool result = false;
-            bool retVal = true;
-            int score = 0;
+            bool result;
+            int number;
+          
 
             if (txtNumber.Text.Trim() == "")
             {
@@ -48,6 +51,33 @@ namespace FactorialNumber
 
                 return;
             }
+
+            result = Int32.TryParse(txtNumber.Text, out number);
+            if (!result || (number < MINNUMBER) ||(number > MAXNUMBER))
+            {
+                ShowMessage("Number must be a number (0-20)",
+                    "INVALID INPUT IN TEXTBOX");
+                txtNumber.Text = "";
+                txtNumber.Focus();
+                return;
+            }
+
+            CalculateFactorial(number);
+
+
+        }
+
+        private void CalculateFactorial(int n)
+        {
+            long factorial = 1;
+
+            while(n != 1)
+            {
+                factorial*= n;
+                n-= 1;
+            }
+
+            txtFactorial.Text = factorial.ToString("n0");
         }
 
         private void ShowMessage(string msg, string title)
