@@ -1,0 +1,11 @@
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CH4-6.csproj.AssemblyReference.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CH4-6.csproj.SuggestedBindingRedirects.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmScoreAverage.resources
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CH4-6.csproj.GenerateResource.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CH4-6.csproj.CoreCompileInputs.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
