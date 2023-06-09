@@ -1,0 +1,11 @@
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\HOT3\EX2\bin\Debug\EX2.exe.config
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\HOT3\EX2\bin\Debug\EX2.exe
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\HOT3\EX2\bin\Debug\EX2.pdb
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\HOT3\EX2\obj\Debug\EX2.csproj.AssemblyReference.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\HOT3\EX2\obj\Debug\EX2.csproj.SuggestedBindingRedirects.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\HOT3\EX2\obj\Debug\EX2.Form1.resources
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\HOT3\EX2\obj\Debug\EX2.Properties.Resources.resources
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\HOT3\EX2\obj\Debug\EX2.csproj.GenerateResource.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\HOT3\EX2\obj\Debug\EX2.csproj.CoreCompileInputs.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\HOT3\EX2\obj\Debug\EX2.exe
+C:\Users\DANTE\Desktop\AWD1100Classwork\Homework\CompletedHomework\CH4-6Homework\HOT3\EX2\obj\Debug\EX2.pdb
