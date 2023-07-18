@@ -1,0 +1,17 @@
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT16\HOT16\bin\Debug\net6.0-windows\HOT16.exe
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT16\HOT16\bin\Debug\net6.0-windows\HOT16.deps.json
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT16\HOT16\bin\Debug\net6.0-windows\HOT16.runtimeconfig.json
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT16\HOT16\bin\Debug\net6.0-windows\HOT16.dll
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT16\HOT16\bin\Debug\net6.0-windows\HOT16.pdb
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT16\HOT16\obj\Debug\net6.0-windows\HOT16.csproj.AssemblyReference.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT16\HOT16\obj\Debug\net6.0-windows\HOT16.Form1.resources
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT16\HOT16\obj\Debug\net6.0-windows\HOT16.csproj.GenerateResource.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT16\HOT16\obj\Debug\net6.0-windows\HOT16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT16\HOT16\obj\Debug\net6.0-windows\HOT16.AssemblyInfoInputs.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT16\HOT16\obj\Debug\net6.0-windows\HOT16.AssemblyInfo.cs
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT16\HOT16\obj\Debug\net6.0-windows\HOT16.csproj.CoreCompileInputs.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT16\HOT16\obj\Debug\net6.0-windows\HOT16.dll
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT16\HOT16\obj\Debug\net6.0-windows\refint\HOT16.dll
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT16\HOT16\obj\Debug\net6.0-windows\HOT16.pdb
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT16\HOT16\obj\Debug\net6.0-windows\HOT16.genruntimeconfig.cache
+C:\Users\DANTE\Desktop\AWD1100Classwork\Hands-On-Tests\HOT16\HOT16\obj\Debug\net6.0-windows\ref\HOT16.dll
