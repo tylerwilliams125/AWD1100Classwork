@@ -1,2 +1,15 @@
 
 *.pptx
+*.dll
+*.cs
+*.resources
+*.cache
+*.json
+*.exe
+*.CopyComplete
+*.dll
+*.BuildWithSkipAnalyzers
+*.pdb
+*.txt
+*.editorconfig
+*.dll
